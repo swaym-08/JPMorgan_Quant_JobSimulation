@@ -2,7 +2,7 @@
 This repo holds my solutions/approaches to the JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage.
 
 ## Prices and Contract Valuation
-Files: [TASK 1/2](swaym-08/JPMorgan_Quant_JobSimulation/jpmorgan_task1nd2.py) and [NATURAL GAS PRICES](swaym-08/JPMorgan_Quant_JobSimulation/Nat_Gas.csv)
+Files: [TASK 1/2]() and [NATURAL GAS PRICES](JPMorgan_Quant_JobSimulation/Nat_Gas)
 ### Task 1: Natural Gas Price Forecasting
 Goal:
 Estimate natural gas prices for any past or future date based on a monthly snapshot of prices from October 31, 2020, to September 30, 2024. The model extrapolates prices for an additional year, providing indicative price estimates for longer-term storage contracts.
